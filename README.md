@@ -33,7 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)&nbsp;
-![Daisy-ui](https://daisyui.com/logos/nuxtjs.svg)&nbsp;
+![Daisy-ui](https://img.shields.io/badge/daisyui?logo=daisyui&link=https%3A%2F%2Fdaisyui.com%2F)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
