@@ -5,7 +5,7 @@
 - 📫 How to reach me ig: anuka.o
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Anudari Oyunbat 😋💛</h1> 
+<h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">,My name is Anudari Oyunbat 😋💛</h1> 
 <h4 align="center">Develop Software Solutions</h4>
 </div>
 
