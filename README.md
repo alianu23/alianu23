@@ -7,6 +7,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, My name is Anudari Oyunbat 😋💛</h1> 
 <h4 align="center">Develop Software Solutions</h4>
+<p align="center" style="margin-top: 10px"> <img src="https://komarev.com/ghpvc/?username=alianu23&label=Profile%20views&color=0e75b6&style=flat" alt="alianu23" /> </p>
 </div>
 
 <div align="center">
